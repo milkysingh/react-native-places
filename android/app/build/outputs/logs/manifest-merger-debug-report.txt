@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-vector-icons] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/dc69bb3b9a2a59361c38ddd7a0c20188/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/eafdb29d2b26673d3a749c99bd1f120b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b4cdcffb27dd50590db0d273b1cc5d28/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/441f0a73a301858769717fd15f420201/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/03baf5d7307cc755ef2cb0cacadcc83f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/be78db6415e6011a83dd015c1d7ad3a8/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f298a591644734d81a7568c236f9a766/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/01cb8ba99ca87699f64ded1875dcb6cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1c12d30ff7f43036b604910a169a345a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/65c86a45af2721ac0827ec97ec5ed776/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c523daa77e9477cb256ede68d1950d86/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ad8e1a57fb60e85838819a446ffe5ff5/AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/b14cce54766c60150dc4a65e8c5388d9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:17:1-31:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/dc69bb3b9a2a59361c38ddd7a0c20188/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/dc69bb3b9a2a59361c38ddd7a0c20188/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/eafdb29d2b26673d3a749c99bd1f120b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/eafdb29d2b26673d3a749c99bd1f120b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b4cdcffb27dd50590db0d273b1cc5d28/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/b4cdcffb27dd50590db0d273b1cc5d28/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/441f0a73a301858769717fd15f420201/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/441f0a73a301858769717fd15f420201/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/03baf5d7307cc755ef2cb0cacadcc83f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/03baf5d7307cc755ef2cb0cacadcc83f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/be78db6415e6011a83dd015c1d7ad3a8/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/be78db6415e6011a83dd015c1d7ad3a8/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/01cb8ba99ca87699f64ded1875dcb6cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/01cb8ba99ca87699f64ded1875dcb6cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1c12d30ff7f43036b604910a169a345a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1c12d30ff7f43036b604910a169a345a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/65c86a45af2721ac0827ec97ec5ed776/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/65c86a45af2721ac0827ec97ec5ed776/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c523daa77e9477cb256ede68d1950d86/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c523daa77e9477cb256ede68d1950d86/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ad8e1a57fb60e85838819a446ffe5ff5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ad8e1a57fb60e85838819a446ffe5ff5/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/b14cce54766c60150dc4a65e8c5388d9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/b14cce54766c60150dc4a65e8c5388d9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:21:5-23:58
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.54.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/b05f74ab1b3e2c9c433bdcb82ffc87a8/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/dc69bb3b9a2a59361c38ddd7a0c20188/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/dc69bb3b9a2a59361c38ddd7a0c20188/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/eafdb29d2b26673d3a749c99bd1f120b/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/eafdb29d2b26673d3a749c99bd1f120b/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/be78db6415e6011a83dd015c1d7ad3a8/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/be78db6415e6011a83dd015c1d7ad3a8/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f298a591644734d81a7568c236f9a766/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f298a591644734d81a7568c236f9a766/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/b14cce54766c60150dc4a65e8c5388d9/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/b14cce54766c60150dc4a65e8c5388d9/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.firstnativeapp.MainActivity
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:29:7-84
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:29:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/f0b4d7ccfb2a73c106da897a099d9edb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2708d4c10f9cfc517077b7bea62f0d3e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ad8e1a57fb60e85838819a446ffe5ff5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/ad8e1a57fb60e85838819a446ffe5ff5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3547947c3a983eadd8582292dd461f13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/4ab3e3a05c5d6803949e9d513c98ae16/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/d917142415134aa5fd28ef41d7c803c9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3ab37c95699db7c81ad970f47451b2a2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63bb3611ac566ff578664d21046e852c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3bbbd4d23cd78fe206eb55348dd62be7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88037a1fc4e62cc46910d202bdb032a2/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

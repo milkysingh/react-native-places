@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7dc32f701f98d607971f1fcaf6a4e1185be14173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/beb6ae16d6d728f9d02489f0c7decc8a1a83b3bd/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e8a6567c5a5d6575d80fb3d5e7ad19669446fc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f6a034932e57802c6c3c819110d564d8f4da68af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/f698538884279fc7210ea1162533d5cd850daa61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_9f1bbcc32f4cb5f17dd1396f56c8ee36d6b311c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/512eda1a923e7e4f2683d8ccc871b522474163e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_c275e35d8010673a36df3966edcb0f55c427b0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/3855fdcc87e04d0b98011ae5aeb1181c074389e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_b59cee239545a91f83c885eac0073d765fb87b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e4099ab84a435fd89564d488b02c3112027fbb2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/44577896df6723a5a00db564774344cfa77d2d38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_af635ed32caccc7529119b5b30af23fc4644597f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/501ccb6c9b10fe9fbe5c8548bf4ca493165c2f7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_a79d795c29d21b5939db1adb2ba97f39dfa644c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/beb6ae16d6d728f9d02489f0c7decc8a1a83b3bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_8bf91b61d0b133eda7544a9c97ae8ffb06a86237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/501ccb6c9b10fe9fbe5c8548bf4ca493165c2f7e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_20d09b9ded7eba9286dab9ad5c28f1da586ec4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_036913db9a42c53440197b700e851ed2e4a67b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/d560e6a005cd1b33ed40de23029c3898d246319f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_af22f3f6045dc000af85898ad0e2a5ef08a3a4e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_545e5fc189fff93b5ba074ac8e682dcd948058b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/ef20c585e97c5d7ab8be58b583d0798eebc553fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_3041db6c8789ff501944c9db96e6675e5cd3e8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/290353b288599c5daf6770b0c414b53cafe74b69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_c195174708963fc267db9ecdc7160f6b9ff21c88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e5559362a10d0d934fa1824ff186553869da6026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c66e5c6c1c936c9215c9a58b3f1a29208a24ddac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/26713f3888d52b0935c9ec8de1ee41210f5e73a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_d04e9db7a7ecd5a4912460e0b55e97b45eb8eb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.android/build-cache/2cc4fa223921c959f48f466e08ba93fca4eea08d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/classes_8d065a5b400da5ef5c29d768d7317bdf45b8aaf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/malkeeet/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_bc055c4897235e7019092332928985b37bb5c6eb.jar" />
+    </item>
+
+</items>

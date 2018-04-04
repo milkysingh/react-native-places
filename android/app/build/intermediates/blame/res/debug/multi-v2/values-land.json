@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/malkeeet/Data and Docs/Learning/React_Native/new/react-native-places/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/malkeeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/374b71dad64ed942d47fcb4234f98f03/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/malkeeet/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/efaf95c83063bd94191a3b07baba8aae/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}
